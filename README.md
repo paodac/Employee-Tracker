@@ -32,6 +32,6 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ### Demo
 
->![Gif demonstrating functionality](./Employee%20Tracker%20Walkthrough.gif)
+>![Gif demonstrating functionality](./Media/Employee%20Tracker%20Walkthrough.gif)
 >
 >Link to the walkthrough video https://drive.google.com/file/d/10nATyX8x5GOd-zzt5OQ8YsJNxz1a7rW1/view
